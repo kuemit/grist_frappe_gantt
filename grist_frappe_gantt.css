@@ -1,0 +1,8 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#gantt {
+    max-width: 800px;
+    margin: 20px auto;
+}
